@@ -1,0 +1,11 @@
+Color
+-------
+base color: #f05a94
+button color: #5c1b34
+buttone shade: #fff0b3
+generate button shade: fff0b3
+
+Font
+------
+Generate Button: Alfa Slab One
+Enter a name: Lato
